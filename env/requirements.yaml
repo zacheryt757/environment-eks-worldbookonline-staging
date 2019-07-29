@@ -9,4 +9,4 @@ dependencies:
   version: 2.3.89
 - name: sirsidynix-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.6
+  version: 0.0.7
